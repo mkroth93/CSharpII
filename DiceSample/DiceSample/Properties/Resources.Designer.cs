@@ -19,7 +19,7 @@ namespace DiceSample.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -63,9 +63,9 @@ namespace DiceSample.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_six_faces_five {
+        internal static System.Drawing.Bitmap dice_six_faces_1 {
             get {
-                object obj = ResourceManager.GetObject("dice_six_faces_five", resourceCulture);
+                object obj = ResourceManager.GetObject("dice_six_faces_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace DiceSample.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_six_faces_four {
+        internal static System.Drawing.Bitmap dice_six_faces_2 {
             get {
-                object obj = ResourceManager.GetObject("dice_six_faces_four", resourceCulture);
+                object obj = ResourceManager.GetObject("dice_six_faces_2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace DiceSample.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_six_faces_one {
+        internal static System.Drawing.Bitmap dice_six_faces_3 {
             get {
-                object obj = ResourceManager.GetObject("dice_six_faces_one", resourceCulture);
+                object obj = ResourceManager.GetObject("dice_six_faces_3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace DiceSample.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_six_faces_six {
+        internal static System.Drawing.Bitmap dice_six_faces_4 {
             get {
-                object obj = ResourceManager.GetObject("dice_six_faces_six", resourceCulture);
+                object obj = ResourceManager.GetObject("dice_six_faces_4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace DiceSample.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_six_faces_three {
+        internal static System.Drawing.Bitmap dice_six_faces_5 {
             get {
-                object obj = ResourceManager.GetObject("dice_six_faces_three", resourceCulture);
+                object obj = ResourceManager.GetObject("dice_six_faces_5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace DiceSample.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_six_faces_two {
+        internal static System.Drawing.Bitmap dice_six_faces_6 {
             get {
-                object obj = ResourceManager.GetObject("dice_six_faces_two", resourceCulture);
+                object obj = ResourceManager.GetObject("dice_six_faces_6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

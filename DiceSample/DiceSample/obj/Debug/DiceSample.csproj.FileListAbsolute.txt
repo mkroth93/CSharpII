@@ -8,3 +8,12 @@ C:\Users\rileyre\source\repos\DiceSample\DiceSample\obj\Debug\DiceSample.csproj.
 C:\Users\rileyre\source\repos\DiceSample\DiceSample\obj\Debug\DiceSample.csproj.CoreCompileInputs.cache
 C:\Users\rileyre\source\repos\DiceSample\DiceSample\obj\Debug\DiceSample.exe
 C:\Users\rileyre\source\repos\DiceSample\DiceSample\obj\Debug\DiceSample.pdb
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\bin\Debug\DiceSample.exe.config
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\bin\Debug\DiceSample.exe
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\bin\Debug\DiceSample.pdb
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\obj\Debug\DiceSample.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\obj\Debug\DiceSample.Form1.resources
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\obj\Debug\DiceSample.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\obj\Debug\DiceSample.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\obj\Debug\DiceSample.exe
+C:\Users\Michael\Documents\GitHub\CSharpII\DiceSample\DiceSample\obj\Debug\DiceSample.pdb

@@ -84,40 +84,22 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\dice-six-faces-three.svg" />
+    <None Include="Resources\dice-six-faces-4.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\dice-six-faces-two.svg" />
+    <None Include="Resources\dice-six-faces-5.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\dice-six-faces-five.svg" />
+    <None Include="Resources\dice-six-faces-6.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\dice-six-faces-four.svg" />
+    <None Include="Resources\dice-six-faces-1.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\dice-six-faces-one.svg" />
+    <None Include="Resources\dice-six-faces-2.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\dice-six-faces-six.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dice-six-faces-three.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dice-six-faces-two.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dice-six-faces-five.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dice-six-faces-four.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dice-six-faces-one.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dice-six-faces-six.png" />
+    <None Include="Resources\dice-six-faces-3.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
